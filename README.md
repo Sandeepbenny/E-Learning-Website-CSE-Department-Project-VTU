@@ -1,0 +1,2 @@
+# E-Learning-Website-CSE-Department-Project-VTU
+E-Learning is a website where different users can login and can access different courses which are offered in the website.  Different methods of learning the courses like video tutorials, PDF materials all are accessible in this Project. E- LEarning is a platform to encourage different people on courses which are offered in the fields of computer science  .This project was created as a department Project for 6th sem VTU. 
